@@ -9,12 +9,10 @@
 Каждая задача делается в отдельной ветке. Имя ветки: `<номер темы>_task_<номер задачи>_<язык>`,
 например `1_task_1_ada`. Исходники лежат в папке своей темы: `<папка темы>/task_<номер>_<язык>/`.
 
-## Языки (20 из 26 предложенных)
+## Языки
 
 Ada, Clojure, D, Elixir, Erlang, F#, Groovy, Haskell, Julia, Kotlin, Nim,
 Objective-C, OCaml, Perl, Prolog, Rust, Scala, Scheme, Swift, Zig.
-
-Не используются: Lisp, Lua, ML, Mojo, ODIN, Ruby.
 
 ---
 
