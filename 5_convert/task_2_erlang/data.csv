@@ -1,0 +1,7 @@
+Language,Paradigm,Year,Description
+Erlang,functional,1986,"Telecom language, built for concurrency"
+Haskell,functional,1990,"Lazy, pure; says ""no side effects"""
+Ada,imperative,1980,Safety-critical systems
+Prolog,logic,1972,"Facts | rules | queries"
+Zig,imperative,2016,"Multi-line
+description"

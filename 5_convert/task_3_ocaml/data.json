@@ -1,0 +1,13 @@
+{
+  "student": "Gleb",
+  "course": 4,
+  "active": true,
+  "mentor": null,
+  "languages": ["OCaml", "Erlang", "Zig"],
+  "grades": {"threads": 5, "algorithms": 4.5, "io": 5},
+  "projects": [
+    {"name": "json2sexp", "tags": ["parser", "recursion"], "done": true},
+    {"name": "csv2md", "tags": [], "done": false}
+  ],
+  "quote": "He said \"hi\"\nand left ☺"
+}
